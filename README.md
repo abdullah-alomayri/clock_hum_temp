@@ -22,6 +22,7 @@
 - LCD 20*4 
 - PIR sensor
 - RTC 1307
+- DHT11 (humidity sensor)
 - wires
 - 4.7k potentiometer 
 
